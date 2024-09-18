@@ -1,0 +1,7 @@
+class Car extends Vehicle:
+  public Car():
+  if XX < 4 :
+  ee += 3
+
+
+  pp = 6

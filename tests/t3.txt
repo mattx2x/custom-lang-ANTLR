@@ -1,0 +1,12 @@
+
+
+
+
+
+djd
+
+class Car :
+  public Dam ():
+  xx = aa
+
+  ww = vv + hh**ff-rr*tt
